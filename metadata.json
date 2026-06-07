@@ -1,0 +1,6 @@
+{
+  "name": "CREDPIX EMPRÉSTIMOS",
+  "description": "Site para solicitação de empréstimo com simulação online e consulta de CPF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
